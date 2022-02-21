@@ -60,8 +60,7 @@ if __name__ == '__main__':
 ## MobileRobot Movement Video:
 
 
-
-[![https://youtu.be/HHcs7oCrfsM0.jpg)](https://youtu.be/HHcs7oCrfsME)
+video: https://youtu.be/HHcs7oCrfsM
 
 <br/>
 <br/>
